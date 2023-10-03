@@ -1,6 +1,30 @@
-# Yoshi Crafter Engine Modded
+# ⚠⚠ THIS ENGINE IS OUTDATED ⚠⚠
+## Use [Codename Engine](https://www.github.com/YoshiCrafter29/CodenameEngine) instead.
 
-# Friday Night Funkin' - YoshiCrafter Engine Modded
+**This project is over a year old, the code is HORRIBLE and the optimisation is HORRIBLE.**
+
+**I don't wanna be affiliated with this old project of mine anymore. Use Codename instead. It actually have GOOD code, runs WELL (unlike yce), and have GOOD modding support.**
+
+Using YoshiCrafter Engine in its current state would leave you with a lot of problems, including, but not limiting to:
+- **Memory Leaks**: Playing it for too long would simply make the memory goes up more and more. Literally, don't try to fix it.
+- **Bad Source**: It's really bad, don't even start digging into it.
+- **Bad Organisation**: The files aren't sorted out into packages, unlike Codename Engine.
+- **Bad Optimisation**: The engine runs poorly on lower end computers, and is obsolete. Codename highly improves on this point.
+- **Bad modding support**: You can edit one state but not another? Why? Codename also improved on this.
+- **Literally every engine combined**: Literally if you took Psych, Kade and Modding+ and combined them together. There's goods, but also bads. A lot of bads.
+- **No source support**: Wanna mod in source? Go fuck yourself! The engine was never intended to be modded in source, unlike Codename which has source support and multiple defines to customise the engine the way you want for your mod.
+
+### I made Codename to fix all of those issues that prevented modders from actually achieving something good. Use it instead, or use YCE at your own risk.
+
+** **
+
+** **
+
+** **
+
+---
+
+# Friday Night Funkin' - YoshiCrafter Engine
 ![YoshiCrafter Engine logo](art/banner_new.png)
 
 ## Say hi to YoshiCrafter Engine, the new moddable FNF engine.
@@ -12,7 +36,7 @@ This is a modification for the game Friday Night Funkin', a game originally made
 ---
 ## The engine documentation is [here](https://yoshicrafter29.github.io/YoshiCrafterEngine-Doc/) (in construction).
 
-## Here's a (non complete) list of YoshiCrafter Engine Modded's functionnalities :
+## Here's a (non complete) list of YoshiCrafter Engine's functionnalities :
 - **Full mod support (non source)**
 	- Scripting in:
 		* HScript
@@ -61,7 +85,6 @@ This is a modification for the game Friday Night Funkin', a game originally made
 - **[siivkoi](https://www.twitter.com/sillysil220)** - Animator (+ helped on some stuff)
 - **[CaptainKirby](https://www.twitter.com/cap_kirby)** - YouTube tutorials for the engine
 - **[KiyuuuSama](https://www.twitter.com/KiyuuuSama)** - Made the logo & some of the credits icons
-- **[Chumble] - Made the modded version
 
 ## Original Game Developers
 - **[ninjamuffin99](https://twitter.com/ninja_muffin99)** - Programmer
